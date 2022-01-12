@@ -1,0 +1,2774 @@
+fileFormatVersion: 2
+guid: d957e798ac50f8d4d8b07b764bbc6b69
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a66c38d4ce3f54689045e6224663c4
+      internalID: -1020033667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6930a3e01c7cef64cb0bc2f6d557ecdf
+      internalID: 1405121790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d574ef4f7c88e4b8f970cba37a76b7
+      internalID: 423426028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae79e9fb44e67d468270474ac8f8d85
+      internalID: 1806364515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77f80d0e6dbb3c41856eb2222c64f99
+      internalID: -399234467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38599ab1e2b67146a9ab0407cc88995
+      internalID: -382972953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcb5cd0cd39d7b4a801aac26df9afea
+      internalID: 1192939481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5650f2b95f4cbe048926dd1d4d2a0b02
+      internalID: 230790392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bccbd4a5c146f643a40bd0576b12bc6
+      internalID: -1144107403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16054df29a4adce42b14f5a913fe40b8
+      internalID: -430818369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b6a8f2e30ac564384faacd40bd90d7
+      internalID: 809865997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176a3a59b0a87b42adcfe3dae181b2d
+      internalID: -1652281092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab003a9f3161a8044997f4fb6d85f18d
+      internalID: 19600371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691b0856ba156e946b8a99d04c90263c
+      internalID: -278356321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2245bb953013d59489a772b47fc56e61
+      internalID: 700647982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48f140ea7b82a2479fa97575a774923
+      internalID: -858409275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0995a92d8cf68b74b92e6a68e7b4c5f0
+      internalID: -1619942087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e387f229c5afd224a9114551605003cd
+      internalID: -860645490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1be88212e13c428e099b41d1e2fdc
+      internalID: -1265150538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bde1f909fb833548a0bcbbc31749ff4
+      internalID: -781049729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79088ede1bf72bc4695b3847c87c1da7
+      internalID: 2052025592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a4c47cf14042f4cb39dc3d28633e56
+      internalID: 1458017499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a178d1f4b8ec1b4e9e0ae48f0b926bc
+      internalID: 2136218640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4770d012345bbb141840102dd1ffe358
+      internalID: 1315569967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65496fbc2b16ba49b9158dd467ed815
+      internalID: -1171404629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589dd76dde2a8c4a81367d50e879e17
+      internalID: -1831396439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a5bf6c985222b449c890a9c50f3cfd
+      internalID: -749773383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_27
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d6eccaf9e65cf49821c234f56e80c7
+      internalID: -1740400536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a05e25fddfed6c4eaa52f41b41a5bb6
+      internalID: -685857190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa24c664ce37d545b169f8a62e0cafd
+      internalID: 73921425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933f20e6c32d374e950693f91b0130e
+      internalID: 122693588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded18e18e7b93834783624461167118a
+      internalID: 259619853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1daf81d7a5357f41864f40ac9b4255c
+      internalID: 1564932989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b099ff8d1dd714ebab31b6807b4daf
+      internalID: -2096600351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbbf27b114696642a1c532f153f642d
+      internalID: -115438288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6aab08ec9c69a45b9562b954c1b3ad
+      internalID: -744631834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d3b4949dead74496f3554911b8f56
+      internalID: 359170634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8a0c37a8ff83d498419e1c5ab7643f
+      internalID: -238511040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2544797a745de3438e3d947b4c708e6
+      internalID: -98342687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2a441f083a5b342baec9d39965186e
+      internalID: -908245962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b15797a9b1a5348a2a29d037d448fa
+      internalID: 957448417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf0a6f833ac814e9b98f8800d81c3c
+      internalID: 1574793391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25811d163887c1045b63a5820ac2d4f8
+      internalID: 415336320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78abb06b18a35cc4d9662e36cffec0f1
+      internalID: 359159103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b17d6b7baf6c5438bf45139f4a24b2
+      internalID: 976936086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3eefe3e275ab4ba88da470244a4d7
+      internalID: 693483475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd0ab4fb51109f49ac673e122b605d4
+      internalID: 752849555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27433175436b33946b0048960aa5099e
+      internalID: -227247696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ffda334fcdd62498e7daabd5675a12
+      internalID: 2084949994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fcb01b05053b34eb0bd16542cb7ba6
+      internalID: -533411772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e615037f220e349489866db8ba271065
+      internalID: 1830561575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e5b1823cf79644be128c03a1404ae
+      internalID: -1233634305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc558964189f424cb256cdd484a0cc1
+      internalID: -2021862047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28643636c35d0146b95553fc3f5ae97
+      internalID: -1539297961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6181eabe1c4a00746985fa282e7c7feb
+      internalID: 1186390499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521f5d621de33f4abe6beb39ccde48a
+      internalID: -1587669186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_56
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6091c59df7f00469afa5b9639c7a1c
+      internalID: -108758697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_57
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0da305ccfc14045ac8d2cd29048729
+      internalID: -37770432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa076b243786064dad323e68cae534c
+      internalID: -1035436599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a97cfabe0368f4b94cab2eb36ea117
+      internalID: 1329661807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57af527e43b429843a3f514fef312f76
+      internalID: 1416047812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889f6394d09c14247beec4ec36ef900c
+      internalID: -153920003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_62
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f72af2b2f2a714ca40f6194ed8cb64
+      internalID: 1017409935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_63
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0ea9bd1deee914a95b6be1f6c5e305
+      internalID: 729498632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a4e5fee3e14e449a15b848ccf0436
+      internalID: -2026812453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c4eef1bf243214291ca673a775c419
+      internalID: -1806686758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_66
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e949d52fc43a478b30b0e54cb445c
+      internalID: -88857828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1fdeb4d3cdae84a80a39c65de64785
+      internalID: -1843111866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5640bf004c0a95b4288227778c985b25
+      internalID: -1604926577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_69
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da07fb15706a286499142e3b8933ab44
+      internalID: -1946482501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158e3b021a813d4bab8d5f075670607
+      internalID: 2017099705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91639ae1d32824aa658f47f23f31d6
+      internalID: 1854157750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_72
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b3edf9d77c414897733a56b93446f
+      internalID: 77553889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cec491ba0c0714ba548405f6bb3d90
+      internalID: 1388149521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b9e5651632a841aaa2529917a768f
+      internalID: 36028619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d9494efa92c83468bf676b14ac73e9
+      internalID: 725405402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_76
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b3da149dff5c449b7b8e334ede05b8
+      internalID: 924563132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_77
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce93b61a63e0a444c9744e1a75fddd56
+      internalID: -26751727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d11d4e076b1d43935a5e816c3ad4a
+      internalID: 352531133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_79
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a101366029e063e4da1a280290b66a0b
+      internalID: -1765762048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1bd0529c182434db72fc34d60394b4
+      internalID: -612741931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a8692d489cf445a8831cbd8c880e6
+      internalID: 502634920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d7c105a4b60846963d16c049ea00e
+      internalID: -1451608197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_83
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2995ac315baa7ab4f92cbde7a95e3a84
+      internalID: -902852538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8c3ac6f5fee94eb31379c4d03a117
+      internalID: -715748255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_85
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d762cb0cced6041bc9e7ab4eb1c817
+      internalID: -1751243936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f5fed63321d994ba1814d8fcf875c4
+      internalID: -1056072345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_87
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d41dafc1b45a40bca004791dfb557
+      internalID: 1110426846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_88
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765a8c2288cb5c429fa687fc50e4402
+      internalID: -1902967031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_89
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0491e0e1c0518e47ba5b3ffa57fe93d
+      internalID: -2018314422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f29175a226e5344ab325fb194bb501
+      internalID: -692903293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_91
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6144ca41b70a97041985530e3fff2c93
+      internalID: -1510564989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_92
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b53f1756e35845a21e4906b672581
+      internalID: -1416589347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_93
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cc4d667a0967e468dd6ea7c0f5d23f
+      internalID: -1034448638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_94
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5d4699d4df224c975cca4834ee1ca
+      internalID: 1207640730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd393625009e564ea5f1bbf93e838e3
+      internalID: -1284614167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96b4b406bc70ff478d107980c0acbbe
+      internalID: 1747865163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_97
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba070b455c1cc948bbb3d7efe726be6
+      internalID: -723654678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_98
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2f6d4c8b29f0c4b88ce6f681b9f4a0
+      internalID: -832032898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_99
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3100b4ecc95066d4c9518d614b8167dc
+      internalID: 468512099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf70abaf9685d449a9319cf3340b84b
+      internalID: 758131585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_101
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9b59108cedb7439dd4d0b805b5f3b
+      internalID: 345687535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_102
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f87a9b6354efb24290459158346a5ce
+      internalID: 368643798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_103
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b355ac9a8f208340a6b3ca6fec63041
+      internalID: 1471673709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d32debb6bef4a47b5dd11bfd38ba8e
+      internalID: -1095689079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_105
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad64160abf101d04eaf1f23c7e9c2a30
+      internalID: 510555096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_106
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c14a903af984d5449ed157d821c377f
+      internalID: -2097912818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_107
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946268205476fa04c8581a9b86aadee9
+      internalID: 1945761636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_108
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba5b14ddaffba499b453bdf24c60d7
+      internalID: -1737919149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_109
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255a2cb68835b042ace5776fa9baee7
+      internalID: -1250357973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ff50306a91fec45846272094fa23b2
+      internalID: -1481237910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_111
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3142f30d4a19e3645b20957935c950c5
+      internalID: 2011477705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_112
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d1ef0a7e60ccd428ff50d5ffbcc69d
+      internalID: -29662511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_113
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e6fb509b1e6c468921a48f6a3ca17
+      internalID: -622102107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79779542e4cee64c9ab22663ddb9718
+      internalID: -589230690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_115
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60e31b99697a3f40b2972fc9f6f0aa5
+      internalID: -1842272098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_116
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774736d1ba9e458448d570577b50ba73
+      internalID: -1225412765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_117
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948aa0dad3409fc4e82cc5a1a54d5d6c
+      internalID: 1621789684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_118
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d039101f655c2439a5a050d4926851
+      internalID: 1343357612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Blaster Master - Area 1_119
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54400c2dc4c5f3468e010b604987f47
+      internalID: 1326545344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Blaster Master - Area 1_108: -1737919149
+      NES - Blaster Master - Area 1_72: 77553889
+      NES - Blaster Master - Area 1_110: -1481237910
+      NES - Blaster Master - Area 1_89: -2018314422
+      NES - Blaster Master - Area 1_52: -2021862047
+      NES - Blaster Master - Area 1_38: -98342687
+      NES - Blaster Master - Area 1_77: -26751727
+      NES - Blaster Master - Area 1_62: 1017409935
+      NES - Blaster Master - Area 1_112: -29662511
+      NES - Blaster Master - Area 1_116: -1225412765
+      NES - Blaster Master - Area 1_22: 2136218640
+      NES - Blaster Master - Area 1_33: -2096600351
+      NES - Blaster Master - Area 1_96: 1747865163
+      NES - Blaster Master - Area 1_79: -1765762048
+      NES - Blaster Master - Area 1_27: -1740400536
+      NES - Blaster Master - Area 1_9: -430818369
+      NES - Blaster Master - Area 1_47: -227247696
+      NES - Blaster Master - Area 1_90: -692903293
+      NES - Blaster Master - Area 1_80: -612741931
+      NES - Blaster Master - Area 1_84: -715748255
+      NES - Blaster Master - Area 1_87: 1110426846
+      NES - Blaster Master - Area 1_63: 729498632
+      NES - Blaster Master - Area 1_78: 352531133
+      NES - Blaster Master - Area 1_1: 1405121790
+      NES - Blaster Master - Area 1_111: 2011477705
+      NES - Blaster Master - Area 1_60: 1416047812
+      NES - Blaster Master - Area 1_113: -622102107
+      NES - Blaster Master - Area 1_85: -1751243936
+      NES - Blaster Master - Area 1_61: -153920003
+      NES - Blaster Master - Area 1_74: 36028619
+      NES - Blaster Master - Area 1_101: 345687535
+      NES - Blaster Master - Area 1_114: -589230690
+      NES - Blaster Master - Area 1_18: -1265150538
+      NES - Blaster Master - Area 1_56: -108758697
+      NES - Blaster Master - Area 1_44: 976936086
+      NES - Blaster Master - Area 1_43: 359159103
+      NES - Blaster Master - Area 1_67: -1843111866
+      NES - Blaster Master - Area 1_19: -781049729
+      NES - Blaster Master - Area 1_45: 693483475
+      NES - Blaster Master - Area 1_29: 73921425
+      NES - Blaster Master - Area 1_2: 423426028
+      NES - Blaster Master - Area 1_36: 359170634
+      NES - Blaster Master - Area 1_54: 1186390499
+      NES - Blaster Master - Area 1_82: -1451608197
+      NES - Blaster Master - Area 1_94: 1207640730
+      NES - Blaster Master - Area 1_7: 230790392
+      NES - Blaster Master - Area 1_31: 259619853
+      NES - Blaster Master - Area 1_65: -1806686758
+      NES - Blaster Master - Area 1_26: -749773383
+      NES - Blaster Master - Area 1_107: 1945761636
+      NES - Blaster Master - Area 1_4: -399234467
+      NES - Blaster Master - Area 1_59: 1329661807
+      NES - Blaster Master - Area 1_49: -533411772
+      NES - Blaster Master - Area 1_30: 122693588
+      NES - Blaster Master - Area 1_103: 1471673709
+      NES - Blaster Master - Area 1_75: 725405402
+      NES - Blaster Master - Area 1_50: 1830561575
+      NES - Blaster Master - Area 1_21: 1458017499
+      NES - Blaster Master - Area 1_105: 510555096
+      NES - Blaster Master - Area 1_32: 1564932989
+      NES - Blaster Master - Area 1_71: 1854157750
+      NES - Blaster Master - Area 1_68: -1604926577
+      NES - Blaster Master - Area 1_115: -1842272098
+      NES - Blaster Master - Area 1_104: -1095689079
+      NES - Blaster Master - Area 1_99: 468512099
+      NES - Blaster Master - Area 1_93: -1034448638
+      NES - Blaster Master - Area 1_66: -88857828
+      NES - Blaster Master - Area 1_106: -2097912818
+      NES - Blaster Master - Area 1_95: -1284614167
+      NES - Blaster Master - Area 1_102: 368643798
+      NES - Blaster Master - Area 1_92: -1416589347
+      NES - Blaster Master - Area 1_69: -1946482501
+      NES - Blaster Master - Area 1_70: 2017099705
+      NES - Blaster Master - Area 1_117: 1621789684
+      NES - Blaster Master - Area 1_97: -723654678
+      NES - Blaster Master - Area 1_81: 502634920
+      NES - Blaster Master - Area 1_16: -1619942087
+      NES - Blaster Master - Area 1_40: 957448417
+      NES - Blaster Master - Area 1_100: 758131585
+      NES - Blaster Master - Area 1_37: -238511040
+      NES - Blaster Master - Area 1_109: -1250357973
+      NES - Blaster Master - Area 1_28: -685857190
+      NES - Blaster Master - Area 1_10: 809865997
+      NES - Blaster Master - Area 1_6: 1192939481
+      NES - Blaster Master - Area 1_8: -1144107403
+      NES - Blaster Master - Area 1_83: -902852538
+      NES - Blaster Master - Area 1_46: 752849555
+      NES - Blaster Master - Area 1_39: -908245962
+      NES - Blaster Master - Area 1_119: 1326545344
+      NES - Blaster Master - Area 1_48: 2084949994
+      NES - Blaster Master - Area 1_57: -37770432
+      NES - Blaster Master - Area 1_20: 2052025592
+      NES - Blaster Master - Area 1_58: -1035436599
+      NES - Blaster Master - Area 1_98: -832032898
+      NES - Blaster Master - Area 1_42: 415336320
+      NES - Blaster Master - Area 1_15: -858409275
+      NES - Blaster Master - Area 1_41: 1574793391
+      NES - Blaster Master - Area 1_51: -1233634305
+      NES - Blaster Master - Area 1_24: -1171404629
+      NES - Blaster Master - Area 1_53: -1539297961
+      NES - Blaster Master - Area 1_17: -860645490
+      NES - Blaster Master - Area 1_3: 1806364515
+      NES - Blaster Master - Area 1_5: -382972953
+      NES - Blaster Master - Area 1_13: -278356321
+      NES - Blaster Master - Area 1_76: 924563132
+      NES - Blaster Master - Area 1_12: 19600371
+      NES - Blaster Master - Area 1_64: -2026812453
+      NES - Blaster Master - Area 1_86: -1056072345
+      NES - Blaster Master - Area 1_88: -1902967031
+      NES - Blaster Master - Area 1_118: 1343357612
+      NES - Blaster Master - Area 1_11: -1652281092
+      NES - Blaster Master - Area 1_73: 1388149521
+      NES - Blaster Master - Area 1_55: -1587669186
+      NES - Blaster Master - Area 1_91: -1510564989
+      NES - Blaster Master - Area 1_35: -744631834
+      NES - Blaster Master - Area 1_23: 1315569967
+      NES - Blaster Master - Area 1_34: -115438288
+      NES - Blaster Master - Area 1_14: 700647982
+      NES - Blaster Master - Area 1_25: -1831396439
+      NES - Blaster Master - Area 1_0: -1020033667
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
